@@ -1,24 +1,38 @@
-<!-- Banner -->
+
+<!-- ==================== HEADER ==================== -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=200&section=header&text=Shazia%20Bano&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=LLM%20Evaluation%20%7C%20AI%2FML%20%7C%20Prompt%20Engineering&descAlignY=60&descSize=18" alt="Shazia Bano banner" />
 
-<!-- Animated typing line -->
+<!-- ==================== TYPING ANIMATION ==================== -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=650&lines=Evaluating+LLMs+and+vision-language+models;Building+AI-powered+applications;Exploring+computer+vision+and+anomaly+detection;Learning+RAG%2C+LangChain+and+AI+agents" alt="Typing animation" />
 </p>
 
+<!-- ==================== SOCIAL LINKS ==================== -->
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/shazia-bano-896030322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/shazia-bano"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:shaziaofficial.00@gmail.com"><img src="https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shazia-bano-896030322/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shazia-bano">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:shaziaofficial.00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<!-- Quick navigation -->
+<!-- ==================== NAVIGATION ==================== -->
+
 <p align="center">
   <a href="#about-me"><b>About</b></a> &nbsp;|&nbsp;
   <a href="#featured-projects"><b>Projects</b></a> &nbsp;|&nbsp;
   <a href="#experience"><b>Experience</b></a> &nbsp;|&nbsp;
   <a href="#tech-stack"><b>Tech Stack</b></a> &nbsp;|&nbsp;
+  <a href="#achievements"><b>Achievements</b></a> &nbsp;|&nbsp;
   <a href="#certifications"><b>Certifications</b></a> &nbsp;|&nbsp;
+  <a href="#github-statistics"><b>GitHub Stats</b></a> &nbsp;|&nbsp;
   <a href="#lets-connect"><b>Contact</b></a>
 </p>
 
@@ -26,16 +40,17 @@
 
 ## About Me
 
-I evaluate how Large Language Models and vision-language models behave in real-world conditions, and I build AI-powered applications and ML research projects around what I learn.
+I explore how Large Language Models and vision-language models behave in real-world conditions. My interests include LLM evaluation, multimodal AI, computer vision, and building practical AI-powered applications.
 
 | | |
 |---|---|
 | **Studying** | B.Tech Computer Science Engineering |
-| **Working at** | Mindtel Global, as an AI Data Annotator (LLM quality evaluation) |
-| **Previously** | LLM Post-Training Intern at Ethara AI (text, image and video evaluation) |
-| **Researching** | How vision-language models handle conflicting and degraded visual evidence |
-| **Learning** | Deep Learning, LLM Fine-tuning, LangChain, RAG, AI Agents |
-| **Goal** | Grow into an AI/ML Engineer who builds reliable, impactful AI products |
+| **Experience** | AI Data Annotation and LLM Quality Evaluation at Mindtel Global |
+| **Previously** | LLM Post-Training Intern at Ethara AI |
+| **Researching** | Vision-language models, visual anomaly detection, and evidence awareness |
+| **Interested in** | AI/ML, LLMs, Computer Vision and Multimodal AI |
+| **Learning** | Deep Learning, LLM Fine-tuning, LangChain, RAG and AI Agents |
+| **Goal** | Grow as an AI/ML Engineer and build reliable, impactful AI products |
 
 <p>
   <img src="https://img.shields.io/badge/LLMs-7B2FF7?style=flat-square" />
@@ -44,24 +59,36 @@ I evaluate how Large Language Models and vision-language models behave in real-w
   <img src="https://img.shields.io/badge/Prompt_Engineering-7B2FF7?style=flat-square" />
   <img src="https://img.shields.io/badge/Computer_Vision-0A66C2?style=flat-square" />
   <img src="https://img.shields.io/badge/Machine_Learning-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data_Science-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Multimodal_AI-0A66C2?style=flat-square" />
 </p>
 
 ---
 
 ## Featured Projects
 
-Click any project to expand it.
+Selected projects in AI/ML, computer vision, and generative applications.
 
 <details open>
-<summary><b>VLM Evidence Awareness</b> &nbsp;<img src="https://img.shields.io/badge/Research-7B2FF7?style=flat-square" /> <img src="https://img.shields.io/badge/Vision--Language_Models-0A66C2?style=flat-square" /></summary>
+<summary><b>VLM Evidence Awareness</b> &nbsp;<img src="https://img.shields.io/badge/Research-7B2FF7?style=flat-square" /> <img src="https://img.shields.io/badge/SmolVLM-0A66C2?style=flat-square" /></summary>
 <br>
 
-Evaluates how vision-language models respond when image evidence is clean, conflicting, or degraded.
+An experimental project evaluating how Vision-Language Models respond to clean, conflicting, and degraded visual evidence.
 
-<!-- TODO: add which models you tested and one finding, e.g. "Compared N models across 3 image conditions" -->
+- Model: SmolVLM-500M-Instruct
+- Evaluated 15 images across three visual conditions.
+- Compared object-presence predictions and model responses under conflicting prompts.
+- Explored how image quality and misleading evidence affect model reliability.
 
-<a href="https://github.com/shazia-bano/VLM-Evidence-Awareness"><img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+**Experimental results:**
+
+| Version | Clean | Conflict | Degraded |
+|---|---:|---:|---:|
+| V3 | 93.3% | 40.0% | 93.3% |
+| V4 | 86.7% | 93.3% | 93.3% |
+
+<a href="https://github.com/shazia-bano/VLM-Evidence-Awareness">
+  <img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </details>
 
@@ -69,11 +96,17 @@ Evaluates how vision-language models respond when image evidence is clean, confl
 <summary><b>Visual Anomaly Research</b> &nbsp;<img src="https://img.shields.io/badge/Research-7B2FF7?style=flat-square" /> <img src="https://img.shields.io/badge/DINOv2-0A66C2?style=flat-square" /></summary>
 <br>
 
-Explores handcrafted features and DINOv2 embeddings for visual anomaly detection, using nearest-neighbour-based scoring.
+Exploring feature representations for visual anomaly detection using handcrafted features and pretrained DINOv2 embeddings.
 
-<!-- TODO: add dataset used and one result, e.g. "Achieved X AUROC on Y" -->
+- Dataset: VisA
+- One-class experimental setup.
+- Compared 10-dimensional handcrafted RGB and texture features with DINOv2 features.
+- Used the same nearest-neighbour-based scoring approach for comparison.
+- Experiments included Candle, Capsules, and Cashew categories.
 
-<a href="https://github.com/shazia-bano/visual-anomaly-research"><img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/shazia-bano/visual-anomaly-research">
+  <img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </details>
 
@@ -81,11 +114,16 @@ Explores handcrafted features and DINOv2 embeddings for visual anomaly detection
 <summary><b>Study-Mind</b> &nbsp;<img src="https://img.shields.io/badge/AI_App-7B2FF7?style=flat-square" /> <img src="https://img.shields.io/badge/Streamlit-0A66C2?style=flat-square&logo=streamlit&logoColor=white" /></summary>
 <br>
 
-AI-powered learning assistant with topic explanations, smart note summarization, quiz generation, and flashcards.
+An AI-powered learning assistant designed to make studying easier and more interactive.
 
-<!-- TODO: add the LLM/API and framework used -->
+- Topic explanations
+- Smart note summarization
+- Quiz generation
+- Flashcards
 
-<a href="https://github.com/shazia-bano/study-mind"><img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/shazia-bano/study-mind">
+  <img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </details>
 
@@ -93,18 +131,23 @@ AI-powered learning assistant with topic explanations, smart note summarization,
 <summary><b>Synthetic Identity Generator</b> &nbsp;<img src="https://img.shields.io/badge/Generative_ML-7B2FF7?style=flat-square" /></summary>
 <br>
 
-Generative ML project that produces synthetic data using Gaussian Mixture Models and KDE, with statistical validation of the output.
+A generative machine learning project for synthetic dataset generation and statistical evaluation.
 
-<!-- TODO: add repo link, or remove this entry if the repo is private -->
+- Gaussian Mixture Models (GMM)
+- Kernel Density Estimation (KDE)
+- Synthetic data generation
+- Kolmogorov-Smirnov statistical validation
 
 </details>
 
 <details>
-<summary><b>More projects</b></summary>
+<summary><b>More Projects</b></summary>
 <br>
 
-- **Weather App:** Python app built on the OpenWeatherMap API
-- **Student Management System:** Python CLI app for managing student records with JSON
+- **Weather App:** Weather application using the OpenWeatherMap API.
+- **Student Management System:** Python CLI application for managing student records using JSON.
+- **Help Hub:** Flask and MySQL-based application.
+- **AI Interview Question Generator:** Application using React, FastAPI, Groq and SQLite.
 
 </details>
 
@@ -113,26 +156,29 @@ Generative ML project that produces synthetic data using Gaussian Mixture Models
 ## Experience
 
 <details open>
-<summary><b>AI Data Annotator</b> at Mindtel Global &nbsp;<img src="https://img.shields.io/badge/Current-7B2FF7?style=flat-square" /></summary>
+<summary><b>AI Data Annotator</b> at Mindtel Global</summary>
 <br>
 
-- Annotate and evaluate AI-generated content to improve LLM quality
-- Review model outputs against quality guidelines and flag issues
-- Support LLM improvement workflows through structured feedback
+Freelance experience supporting AI data annotation and model improvement workflows.
 
-<!-- TODO: add scale or specifics, e.g. volume of tasks, types of content, quality metrics -->
+- Worked on structured AI data annotation tasks.
+- Evaluated and reviewed AI-generated content.
+- Worked with quality guidelines and annotation requirements.
+- Contributed to LLM training data workflows.
 
 </details>
 
-<details>
+<details open>
 <summary><b>LLM Post-Training Intern</b> at Ethara AI</summary>
 <br>
 
-- Evaluated and ranked AI-generated responses
-- Performed multimodal evaluation across text, images, and videos
-- Improved prompt quality through structured, criteria-based feedback
+Worked on evaluating and improving the quality of Large Language Model outputs.
 
-<!-- TODO: add numbers, e.g. "Evaluated 500+ responses" -->
+- Evaluated and ranked AI-generated responses.
+- Performed multimodal evaluation across text, images, and videos.
+- Compared model outputs using structured evaluation criteria.
+- Worked on prompt optimization and quality assessment.
+- Contributed to human-feedback-based model evaluation workflows.
 
 </details>
 
@@ -140,9 +186,8 @@ Generative ML project that produces synthetic data using Gaussian Mixture Models
 <summary><b>AI Intern</b> at Edunet Foundation</summary>
 <br>
 
-- Built practical ML applications as part of AI/ML project work
-
-<!-- TODO: name the project(s), models, and outcome -->
+- Worked on Artificial Intelligence and Machine Learning projects.
+- Built practical ML applications as part of internship assignments.
 
 </details>
 
@@ -150,7 +195,8 @@ Generative ML project that produces synthetic data using Gaussian Mixture Models
 <summary><b>Web Development Intern</b> at Vault of Codes</summary>
 <br>
 
-- Developed responsive web applications using HTML, CSS, JavaScript, and backend technologies
+- Developed responsive web applications.
+- Worked with HTML, CSS, JavaScript and backend technologies.
 
 </details>
 
@@ -161,17 +207,19 @@ Generative ML project that produces synthetic data using Gaussian Mixture Models
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-0A66C2?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/NumPy-0A66C2?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-0A66C2?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-0A66C2?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-<!-- TODO: add badges for frameworks you actually used, e.g. PyTorch, Hugging Face -->
-
 <p align="center">
   <img src="https://img.shields.io/badge/LLM_Evaluation-7B2FF7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-7B2FF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multimodal_AI-7B2FF7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer_Vision-7B2FF7?style=for-the-badge" />
 </p>
 
@@ -183,10 +231,19 @@ Generative ML project that produces synthetic data using Gaussian Mixture Models
 
 ---
 
+## Achievements
+
+- **3rd Rank** – Skill India Cloud Computing Competition, Aligarh Division.
+- **Top 180** – GeeksforGeeks Campus Representative.
+- **Debate Winner** – College debate on "AI is Creating Jobs".
+- **Full Scholarship** – SheFi Season 17.
+
+---
+
 ## Certifications
 
 <details>
-<summary><b>View all certifications</b></summary>
+<summary><b>View Certifications</b></summary>
 <br>
 
 | Certification | Issuer |
@@ -194,8 +251,7 @@ Generative ML project that produces synthetic data using Gaussian Mixture Models
 | Agentic AI Certified Foundations Associate | Oracle Cloud Infrastructure |
 | AI Agent Creation | GeeksforGeeks and Salesforce |
 | Design and Analysis of Algorithms | NPTEL |
-| Foundations of Data Science | |
-| Power BI in Action | |
+| Cloud Computing | Skill India |
 
 </details>
 
@@ -213,14 +269,35 @@ Generative ML project that produces synthetic data using Gaussian Mixture Models
 
 ---
 
+## GitHub Statistics
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shazia-bano&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shazia-bano&theme=github_dark" alt="GitHub Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shazia-bano&theme=github_dark" alt="Most Used Languages" />
+</p>
+
+---
+
 ## Let's Connect
 
 <p align="center">
-  <a href="mailto:shaziaofficial.00@gmail.com"><img src="https://img.shields.io/badge/Email_Me-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shazia-bano-896030322/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/shazia-bano"><img src="https://img.shields.io/badge/Follow_on_GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:shaziaofficial.00@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shazia-bano-896030322/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shazia-bano">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<p align="center"><i>Always learning, exploring, and building with AI.</i></p>
+<p align="center">
+  <i>Always learning, exploring, and building with AI.</i>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=120&section=footer" alt="footer" />
