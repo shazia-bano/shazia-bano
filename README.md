@@ -3,13 +3,13 @@
 
 <!-- Animated typing line -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Evaluating+LLMs+and+vision-language+models;Building+AI-powered+applications;Exploring+computer+vision+and+anomaly+detection;Learning+RAG%2C+LangChain+and+AI+agents" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=650&lines=Evaluating+LLMs+and+vision-language+models;Building+AI-powered+applications;Exploring+computer+vision+and+anomaly+detection;Learning+RAG%2C+LangChain+and+AI+agents" alt="Typing animation" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shazia-bano-896030322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/shazia-bano"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:shaziaofficial.00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/shazia-bano"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:shaziaofficial.00@gmail.com"><img src="https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- Quick navigation -->
@@ -41,10 +41,10 @@ I evaluate how Large Language Models and vision-language models behave in real-w
   <img src="https://img.shields.io/badge/LLMs-7B2FF7?style=flat-square" />
   <img src="https://img.shields.io/badge/LLM_Evaluation-7B2FF7?style=flat-square" />
   <img src="https://img.shields.io/badge/Post--Training-7B2FF7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7B2FF7?style=flat-square" />
   <img src="https://img.shields.io/badge/Computer_Vision-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data_Science-150458?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Science-0A66C2?style=flat-square" />
 </p>
 
 ---
@@ -61,7 +61,7 @@ Evaluates how vision-language models respond when image evidence is clean, confl
 
 <!-- TODO: add which models you tested and one finding, e.g. "Compared N models across 3 image conditions" -->
 
-<a href="https://github.com/shazia-bano/VLM-Evidence-Awareness"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/shazia-bano/VLM-Evidence-Awareness"><img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </details>
 
@@ -73,24 +73,24 @@ Explores handcrafted features and DINOv2 embeddings for visual anomaly detection
 
 <!-- TODO: add dataset used and one result, e.g. "Achieved X AUROC on Y" -->
 
-<a href="https://github.com/shazia-bano/visual-anomaly-research"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/shazia-bano/visual-anomaly-research"><img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </details>
 
 <details>
-<summary><b>Study-Mind</b> &nbsp;<img src="https://img.shields.io/badge/AI_App-FF4B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></summary>
+<summary><b>Study-Mind</b> &nbsp;<img src="https://img.shields.io/badge/AI_App-7B2FF7?style=flat-square" /> <img src="https://img.shields.io/badge/Streamlit-0A66C2?style=flat-square&logo=streamlit&logoColor=white" /></summary>
 <br>
 
 AI-powered learning assistant with topic explanations, smart note summarization, quiz generation, and flashcards.
 
 <!-- TODO: add the LLM/API and framework used -->
 
-<a href="https://github.com/shazia-bano/study-mind"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/shazia-bano/study-mind"><img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </details>
 
 <details>
-<summary><b>Synthetic Identity Generator</b> &nbsp;<img src="https://img.shields.io/badge/Generative_ML-F7931E?style=flat-square" /></summary>
+<summary><b>Synthetic Identity Generator</b> &nbsp;<img src="https://img.shields.io/badge/Generative_ML-7B2FF7?style=flat-square" /></summary>
 <br>
 
 Generative ML project that produces synthetic data using Gaussian Mixture Models and KDE, with statistical validation of the output.
@@ -113,7 +113,7 @@ Generative ML project that produces synthetic data using Gaussian Mixture Models
 ## Experience
 
 <details open>
-<summary><b>AI Data Annotator</b> at Mindtel Global &nbsp;<img src="https://img.shields.io/badge/Current-2EA44F?style=flat-square" /></summary>
+<summary><b>AI Data Annotator</b> at Mindtel Global &nbsp;<img src="https://img.shields.io/badge/Current-7B2FF7?style=flat-square" /></summary>
 <br>
 
 - Annotate and evaluate AI-generated content to improve LLM quality
@@ -159,15 +159,26 @@ Generative ML project that produces synthetic data using Gaussian Mixture Models
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,numpy,pandas,sklearn,git,github,vscode&perline=8" alt="Tech stack icons" />
+  <img src="https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0A66C2?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-0A66C2?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-0A66C2?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-0A66C2?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-<!-- TODO: add icons for frameworks you actually used, e.g. pytorch -->
+<!-- TODO: add badges for frameworks you actually used, e.g. PyTorch, Hugging Face -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM_Evaluation-7B2FF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7B2FF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Vision-7B2FF7?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -193,11 +204,11 @@ Generative ML project that produces synthetic data using Gaussian Mixture Models
 ## Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Deep_Learning-in_progress-F7931E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_Fine--tuning-in_progress-F7931E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-in_progress-F7931E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-in_progress-F7931E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Agents-in_progress-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-in_progress-7B2FF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Fine--tuning-in_progress-7B2FF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-in_progress-7B2FF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-in_progress-7B2FF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-in_progress-7B2FF7?style=for-the-badge" />
 </p>
 
 ---
@@ -205,9 +216,9 @@ Generative ML project that produces synthetic data using Gaussian Mixture Models
 ## Let's Connect
 
 <p align="center">
-  <a href="mailto:shaziaofficial.00@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:shaziaofficial.00@gmail.com"><img src="https://img.shields.io/badge/Email_Me-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shazia-bano-896030322/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/shazia-bano"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/shazia-bano"><img src="https://img.shields.io/badge/Follow_on_GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Always learning, exploring, and building with AI.</i></p>
