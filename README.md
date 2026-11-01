@@ -42,12 +42,6 @@
 - Computer Vision
 - Data Science
 
-### Achievements
-
-- Top 180 Campus Representative – GeeksforGeeks
-- 3rd Rank – Skill India Cloud Computing Competition, Aligarh Division
-- Winner – College Debate: "AI is Creating Jobs"
-
 ### My Goal
 
 To grow as an AI/ML Engineer and contribute to building intelligent, reliable, and impactful AI products.
