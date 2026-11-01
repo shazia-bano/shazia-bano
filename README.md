@@ -170,19 +170,11 @@ Python CLI application for managing student records using JSON.
 
 ---
 
-## GitHub Statistics
-
 <h2>GitHub Statistics</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shazia-bano&show_icons=true&theme=github_dark&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazia-bano&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
-  />
+  <img src="https://github-stats-extended.vercel.app/api?username=shazia-bano&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shazia-bano&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 </p>
 
 
