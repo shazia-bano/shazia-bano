@@ -78,4 +78,138 @@ Explores handcrafted features and DINOv2 embeddings for visual anomaly detection
 </details>
 
 <details>
-<summary><b>Study-Mind</b> &nbsp;<img src="https://img.shields.io/badge/AI_App-FF4B4B?style=flat-square"
+<summary><b>Study-Mind</b> &nbsp;<img src="https://img.shields.io/badge/AI_App-FF4B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></summary>
+<br>
+
+AI-powered learning assistant with topic explanations, smart note summarization, quiz generation, and flashcards.
+
+<!-- TODO: add the LLM/API and framework used -->
+
+<a href="https://github.com/shazia-bano/study-mind"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</details>
+
+<details>
+<summary><b>Synthetic Identity Generator</b> &nbsp;<img src="https://img.shields.io/badge/Generative_ML-F7931E?style=flat-square" /></summary>
+<br>
+
+Generative ML project that produces synthetic data using Gaussian Mixture Models and KDE, with statistical validation of the output.
+
+<!-- TODO: add repo link, or remove this entry if the repo is private -->
+
+</details>
+
+<details>
+<summary><b>More projects</b></summary>
+<br>
+
+- **Weather App:** Python app built on the OpenWeatherMap API
+- **Student Management System:** Python CLI app for managing student records with JSON
+
+</details>
+
+---
+
+## Experience
+
+<details open>
+<summary><b>AI Data Annotator</b> at Mindtel Global &nbsp;<img src="https://img.shields.io/badge/Current-2EA44F?style=flat-square" /></summary>
+<br>
+
+- Annotate and evaluate AI-generated content to improve LLM quality
+- Review model outputs against quality guidelines and flag issues
+- Support LLM improvement workflows through structured feedback
+
+<!-- TODO: add scale or specifics, e.g. volume of tasks, types of content, quality metrics -->
+
+</details>
+
+<details>
+<summary><b>LLM Post-Training Intern</b> at Ethara AI</summary>
+<br>
+
+- Evaluated and ranked AI-generated responses
+- Performed multimodal evaluation across text, images, and videos
+- Improved prompt quality through structured, criteria-based feedback
+
+<!-- TODO: add numbers, e.g. "Evaluated 500+ responses" -->
+
+</details>
+
+<details>
+<summary><b>AI Intern</b> at Edunet Foundation</summary>
+<br>
+
+- Built practical ML applications as part of AI/ML project work
+
+<!-- TODO: name the project(s), models, and outcome -->
+
+</details>
+
+<details>
+<summary><b>Web Development Intern</b> at Vault of Codes</summary>
+<br>
+
+- Developed responsive web applications using HTML, CSS, JavaScript, and backend technologies
+
+</details>
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,numpy,pandas,sklearn,git,github,vscode&perline=8" alt="Tech stack icons" />
+</p>
+
+<!-- TODO: add icons for frameworks you actually used, e.g. pytorch -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Evaluation-7B2FF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0A66C2?style=for-the-badge" />
+</p>
+
+---
+
+## Certifications
+
+<details>
+<summary><b>View all certifications</b></summary>
+<br>
+
+| Certification | Issuer |
+|---|---|
+| Agentic AI Certified Foundations Associate | Oracle Cloud Infrastructure |
+| AI Agent Creation | GeeksforGeeks and Salesforce |
+| Design and Analysis of Algorithms | NPTEL |
+| Foundations of Data Science | |
+| Power BI in Action | |
+
+</details>
+
+---
+
+## Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep_Learning-in_progress-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Fine--tuning-in_progress-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-in_progress-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-in_progress-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-in_progress-F7931E?style=for-the-badge" />
+</p>
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="mailto:shaziaofficial.00@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shazia-bano-896030322/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/shazia-bano"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Always learning, exploring, and building with AI.</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=120&section=footer" alt="footer" />
