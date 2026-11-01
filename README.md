@@ -1,200 +1,105 @@
-<h1 align="center">Hi , I am Shazia Bano</h1>
 
-<h3 align="center">
-AI/ML Enthusiast • LLM Evaluation • Prompt Engineering 
-</h3>
+# Hi, I'm Shazia Bano
 
-<p align="center">
-Passionate about building AI-powered applications, evaluating Large Language Models, and solving real-world problems through Machine Learning.
-</p>
+**AI/ML Enthusiast | LLM Evaluation | Prompt Engineering**
 
-<p align="center">
-<a href="https://www.linkedin.com/in/shazia-bano-896030322/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:shaziaofficial.00@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Shazia63khan&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+Interested in Artificial Intelligence, Machine Learning, and Large Language Models. I enjoy evaluating AI systems, exploring model behaviour, and building practical applications.
 
 ---
 
-# 👩‍💻 About Me
+## About Me
 
-🎓 B.Tech Computer Science Engineering student
+- B.Tech Computer Science Engineering student
+- AI Data Annotator at Mindtel Global
+- Former LLM Post-Training Intern at Ethara AI
+- Interested in AI/ML research, LLM evaluation, and multimodal AI
 
-🤖 Working at **Mindtel Global Pvt. Ltd.** as a Data Annotator
+## Areas of Interest
 
-💼 Former **LLM Post-Training Intern @ Ethara AI**
-
-🌱 Interested in
-
-- Artificial Intelligence
-- Machine Learning
+- Artificial Intelligence and Machine Learning
 - Large Language Models (LLMs)
+- LLM Evaluation and Post-Training
+- Computer Vision
 - Prompt Engineering
-- Data Science
+- Generative AI
 
-🏆 Achievements
+## Achievements
 
 - Top 180 Campus Representative – GeeksforGeeks
-- 3rd Rank – Skill India Cloud Computing Competition (Aligarh Mandal)
+- 3rd Rank – Skill India Cloud Computing Competition, Aligarh Division
+- Winner – College Debate on "AI is Creating Jobs"
 
-🎯 Goal
+## Technical Skills
 
-To become an AI/ML Engineer building intelligent and impactful products.
+**Languages:** Python, SQL
 
----
+**Libraries:** NumPy, Pandas, Scikit-learn
 
-# 🛠 Tech Stack
+**AI/ML:** Machine Learning, LLM Evaluation, Prompt Engineering, Multimodal Evaluation
 
-### Languages
+**Tools:** Git, GitHub, Streamlit
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,javascript,html,css,sql"/>
-</p>
+## Experience
 
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow"/>
-</p>
-
-Libraries
-
-- NumPy
-- Pandas
-- Scikit-learn
-- Streamlit
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
----
-
-# 💼 Experience
-
-### Data Annotator
-**Innodata**
-
+**AI Data Annotator | Mindtel Global**
 - Working on AI data annotation and quality evaluation.
-- Supporting Large Language Model improvement workflows.
+- Supporting LLM improvement workflows through structured data tasks.
 
----
-
-### LLM Post-Training Intern
-**Ethara AI**
-
-- Evaluated AI-generated responses.
-- Ranked model outputs based on quality.
-- Performed multimodal evaluation.
+**LLM Post-Training Intern | Ethara AI**
+- Evaluated and ranked AI-generated responses.
+- Performed multimodal model evaluation.
 - Improved prompt quality through structured feedback.
 
----
-
-### AI Intern
-**Edunet Foundation**
-
-- Worked on AI and Machine Learning projects.
+**AI Intern | Edunet Foundation**
+- Worked on Artificial Intelligence and Machine Learning projects.
 - Built practical ML applications.
 
----
-
-### Web Development Intern
-**Vault of Codes**
-
+**Web Development Intern | Vault of Codes**
 - Developed responsive web applications.
 - Worked with HTML, CSS, JavaScript and backend technologies.
 
----
+## Featured Projects
 
-# 🚀 Featured Projects
+### Study-Mind
+AI-powered learning assistant featuring topic explanations, note summarization, quiz generation, and flashcards.
 
-## 🧠 Study-Mind
+[View Repository](https://github.com/shazia-bano/study-mind)
 
-AI-powered learning assistant featuring
+### Synthetic Identity Generator
+Generative ML project using Gaussian Mixture Models, KDE, and statistical validation.
 
-- Topic Explanation
-- Smart Note Summarization
-- Quiz Generation
-- Flashcards
+### Visual Anomaly Research
+Exploring feature representations and nearest-neighbour-based anomaly detection using DINOv2 and handcrafted features.
 
-🔗
-https://github.com/Shazia63khan/study-mind
+[View Repository](https://github.com/Shazia63khan/visual-anomaly-research)
 
----
+### VLM Evidence Awareness
+Evaluating vision-language model responses under clean, conflicting, and degraded image conditions.
 
-## 🧬 Synthetic Identity Generator
+[View Repository](https://github.com/Shazia63khan/VLM-Evidence-Awareness)
 
-Generative AI project using
+## Certifications
 
-- Gaussian Mixture Models
-- KS Test Validation
-- Synthetic Dataset Generation
+- Oracle Cloud Infrastructure – Agentic AI Certified Foundations Associate
+- NPTEL – Design and Analysis of Algorithms
+- AI Agent Creation – GeeksforGeeks and Salesforce
+- Foundations of Data Science
+- Power BI in Action
 
----
-
-## 🌦 Weather App
-
-Python weather application using OpenWeatherMap API.
-
----
-
-## 🎓 Student Management System
-
-Python CLI application for managing student records using JSON.
-
----
-
-## 💼 Portfolio Website
-
-Personal portfolio showcasing projects and skills.
-
----
-
-# 📜 Certifications
-
-🏅 NPTEL – Design & Analysis of Algorithms
-
-🏅 AI Agent Creation (GeeksforGeeks & Salesforce)
-
-🏅 Foundations of Data Science
-
-🏅 Power BI in Action
-
-
----
-
-# Currently Learning
+## Currently Exploring
 
 - Deep Learning
 - LLM Fine-tuning
-- LangChain
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
+- Multimodal AI
+
+## Connect With Me
+
+- **Email:** shaziaofficial.00@gmail.com
+- **LinkedIn:** [Shazia Bano](https://www.linkedin.com/in/shazia-bano-896030322/)
+- **GitHub:** [shazia-bano](https://github.com/shazia-bano)
 
 ---
 
-# Let's Connect
-
-📧 **Email**
-
-shaziaofficial.00@gmail.com
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/shazia-bano-896030322/
-
-⭐ Thanks for visiting my profile!
+*Always learning, experimenting, and building with AI.*
