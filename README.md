@@ -1,9 +1,6 @@
-
 <h1 align="center">Hi, I'm Shazia Bano</h1>
 
-<h3 align="center">AI/ML Enthusiast | LLM Evaluation | Prompt Engineering</h3>
-
-
+<h3 align="center">LLM Evaluation & Post-Training | AI/ML | Prompt Engineering</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shazia-bano-896030322/">
@@ -17,10 +14,8 @@
   </a>
 </p>
 
-
-
 <p align="center">
-  Passionate about building AI-powered applications, evaluating Large Language Models, and exploring practical applications of Machine Learning.
+  I evaluate how Large Language Models and vision-language models behave in real-world conditions, and I build AI-powered applications and ML research projects around what I learn.
 </p>
 
 ---
@@ -28,45 +23,87 @@
 ## About Me
 
 - B.Tech Computer Science Engineering student
-- Working at Mindtel Global as an AI Data Annotator
-- Former LLM Post-Training Intern at Ethara AI
-- Interested in building intelligent systems and understanding how AI models perform in real-world scenarios.
+- AI Data Annotator at **Mindtel Global**, working on LLM quality evaluation
+- Former LLM Post-Training Intern at **Ethara AI**, where I ranked and evaluated model responses across text, images, and video
+- Currently researching how vision-language models handle conflicting and degraded visual evidence
+- **Goal:** grow into an AI/ML Engineer who builds reliable, impactful AI products
 
-### Areas of Interest
+**Areas of interest:** LLMs · LLM Evaluation & Post-Training · Prompt Engineering · Computer Vision · Machine Learning · Data Science
 
-- Artificial Intelligence
-- Machine Learning
-- Large Language Models (LLMs)
-- LLM Evaluation and Post-Training
-- Prompt Engineering
-- Computer Vision
-- Data Science
+---
 
-### My Goal
+## Featured Projects
 
-To grow as an AI/ML Engineer and contribute to building intelligent, reliable, and impactful AI products.
+### VLM Evidence Awareness
+Evaluates how vision-language models respond when image evidence is clean, conflicting, or degraded.
+<!-- TODO: add key tech (e.g. which models) and one finding (e.g. "Compared N models across 3 image conditions") -->
+**Repo:** [shazia-bano/VLM-Evidence-Awareness](https://github.com/shazia-bano/VLM-Evidence-Awareness)
+
+### Visual Anomaly Research
+Explores handcrafted features and **DINOv2** embeddings for visual anomaly detection, using nearest-neighbour-based scoring.
+<!-- TODO: add dataset used and one result (e.g. "Achieved X AUROC on Y") -->
+**Repo:** [shazia-bano/visual-anomaly-research](https://github.com/shazia-bano/visual-anomaly-research)
+
+### Study-Mind
+AI-powered learning assistant with topic explanations, smart note summarization, quiz generation, and flashcards.
+<!-- TODO: add the LLM/API and framework used -->
+**Repo:** [shazia-bano/study-mind](https://github.com/shazia-bano/study-mind)
+
+### Synthetic Identity Generator
+Generative ML project that produces synthetic data using **Gaussian Mixture Models** and **KDE**, with statistical validation of the output.
+<!-- TODO: add repo link, or remove this entry if the repo is private -->
+
+<details>
+<summary><b>More projects</b></summary>
+
+- **Weather App:** Python app built on the OpenWeatherMap API
+- **Student Management System:** Python CLI app for managing student records with JSON
+
+</details>
+
+---
+
+## Experience
+
+**AI Data Annotator · Mindtel Global**
+- Annotate and evaluate AI-generated content to improve LLM quality
+- Review model outputs against quality guidelines and flag issues
+- Support LLM improvement workflows through structured feedback
+<!-- TODO: add scale or specifics, e.g. volume of tasks, types of content, quality metrics -->
+
+**LLM Post-Training Intern · Ethara AI**
+- Evaluated and ranked AI-generated responses
+- Performed multimodal evaluation across text, images, and videos
+- Improved prompt quality through structured, criteria-based feedback
+<!-- TODO: add numbers, e.g. "Evaluated 500+ responses" -->
+
+**AI Intern · Edunet Foundation**
+- Built practical ML applications as part of AI/ML project work
+<!-- TODO: name the project(s), models, and outcome -->
+
+**Web Development Intern · Vault of Codes**
+- Developed responsive web applications using HTML, CSS, JavaScript, and backend technologies
 
 ---
 
 ## Tech Stack
 
 **Languages**
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
 **AI / ML**
-
 <p>
   <img src="https://img.shields.io/badge/Machine_Learning-orange?style=flat" />
   <img src="https://img.shields.io/badge/LLM_Evaluation-purple?style=flat" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Computer_Vision-green?style=flat" />
 </p>
+<!-- TODO: add badges for frameworks you actually used, e.g. PyTorch, Hugging Face -->
 
 **Libraries**
-
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
@@ -75,7 +112,6 @@ To grow as an AI/ML Engineer and contribute to building intelligent, reliable, a
 </p>
 
 **Tools**
-
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
@@ -84,71 +120,11 @@ To grow as an AI/ML Engineer and contribute to building intelligent, reliable, a
 
 ---
 
-## Experience
-
-**AI Data Annotator | Mindtel Global**
-
-- Working on AI data annotation and quality evaluation.
-- Supporting Large Language Model improvement workflows.
-- Reviewing and evaluating AI-generated content.
-
-**LLM Post-Training Intern | Ethara AI**
-
-- Evaluated and ranked AI-generated responses.
-- Performed multimodal evaluation across text, images, and videos.
-- Improved prompt quality through structured feedback.
-
-**AI Intern | Edunet Foundation**
-
-- Worked on Artificial Intelligence and Machine Learning projects.
-- Built practical ML applications.
-
-**Web Development Intern | Vault of Codes**
-
-- Developed responsive web applications.
-- Worked with HTML, CSS, JavaScript and backend technologies.
-
----
-
-## Featured Projects
-
-**Study-Mind**
-
-AI-powered learning assistant featuring topic explanations, smart note summarization, quiz generation, and flashcards.
-
-[View Repository](https://github.com/shazia-bano/study-mind)
-
-**Synthetic Identity Generator**
-
-Generative ML project using Gaussian Mixture Models, KDE, and statistical validation for synthetic data generation.
-
-**Visual Anomaly Research**
-
-Exploring handcrafted and DINOv2 feature representations for visual anomaly detection using nearest-neighbour-based scoring.
-
-[View Repository](https://github.com/shazia-bano/visual-anomaly-research)
-
-**VLM Evidence Awareness**
-
-Evaluating vision-language model responses under clean, conflicting, and degraded image conditions.
-
-[View Repository](https://github.com/shazia-bano/VLM-Evidence-Awareness)
-
-**Weather App**
-
-Python-based weather application using the OpenWeatherMap API.
-
-**Student Management System**
-
-Python CLI application for managing student records using JSON.
-
----
-
 ## Certifications
 
-- Oracle Cloud Infrastructure – Agentic AI Certified Foundations Associate
-- NPTEL – Design and Analysis of Algorithms
-- AI Agent Creation – GeeksforGeeks and Salesforce
+- Oracle Cloud Infrastructure: Agentic AI Certified Foundations Associate
+- AI Agent Creation: GeeksforGeeks and Salesforce
+- NPTEL: Design and Analysis of Algorithms
 - Foundations of Data Science
 - Power BI in Action
 
@@ -156,29 +132,15 @@ Python CLI application for managing student records using JSON.
 
 ## Currently Learning
 
-- Deep Learning
-- LLM Fine-tuning
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-
----
-
-<h2>GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=shazia-bano&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shazia-bano&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
+Deep Learning · LLM Fine-tuning · LangChain · Retrieval-Augmented Generation (RAG) · AI Agents
 
 ---
 
 ## Let's Connect
 
-<p>
-  <a href="mailto:shaziaofficial.00@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/shazia-bano-896030322/">LinkedIn</a> |
+<p align="center">
+  <a href="mailto:shaziaofficial.00@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/shazia-bano-896030322/">LinkedIn</a> ·
   <a href="https://github.com/shazia-bano">GitHub</a>
 </p>
 
